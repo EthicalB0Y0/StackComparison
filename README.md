@@ -3,7 +3,7 @@ A C++ program to compare two stacks and determine if they are identical. Include
 # How to Use
 Provide instructions on how to compile and run your program. Include any dependencies or specific setup steps.
 # Compilation
-g++ main.cpp stack1.cpp stack2.cpp -o StackComparison
+g++ identical.cpp  -o StackComparison
 
 # Run the program
 ./StackComparison
